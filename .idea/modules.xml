@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern_main.iml" group="ProxyPattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern_test.iml" group="ProxyPattern" />
+    </modules>
+  </component>
+</project>
